@@ -1,5 +1,5 @@
-x = 12
-y = 5
+x = float(input("Enter number 1: "))
+y = float(input("Enter number 2: "))
 
 print(str(x) + " + " + str(y) + " = " + str(x + y))
 print(str(x) + " - " + str(y) + " = " + str(x - y))
