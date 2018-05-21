@@ -1,10 +1,10 @@
-x = 6.8
-y = 2.9
+x = 12
+y = 5
 
-print(x + y)
-print(x - y)
-print(x * y)
-print(x / y)
-print(x ** y)
-print(x // y)
-print(x % y)
+print(str(x) + " + " + str(y) + " = " + str(x + y))
+print(str(x) + " - " + str(y) + " = " + str(x - y))
+print(str(x) + " * " + str(y) + " = " + str(x * y))
+print(str(x) + " / " + str(y) + " = " + str(x / y))
+print(str(x) + " ** " + str(y) + " = " + str(x ** y))
+print(str(x) + " // " + str(y) + " = " + str(x // y))
+print(str(x) + " % " + str(y) + " = " + str(x % y))
