@@ -2,7 +2,7 @@
 import random
 
 # The computer guesses a random number between 1 and 100
-num = random.randint(1, 101)
+num = random.randint(1, 100)
 
 print("I have chosen a random number between 1 and 100.")
 
