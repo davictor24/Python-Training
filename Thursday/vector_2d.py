@@ -14,6 +14,6 @@ vectorA = Vector2D(3, 4)
 vectorB = Vector2D(2, -1)
 vectorC = vectorA + vectorB
 
-print("x-coordinate: " + str(vectorC.x))
-print("y-coordinate: " + str(vectorC.y))
+print("x coordinate: " + str(vectorC.x))
+print("y coordinate: " + str(vectorC.y))
 
